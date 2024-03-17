@@ -5,9 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node app.js",
-    "build": "vite build",
-    "preview": "vite preview"
+    "start": "node app.js"
   },
   "keywords": [],
   "author": "",
